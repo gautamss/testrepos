@@ -35,7 +35,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <cassandra.version>1.2.15</cassandra.version>
-    <cassandra-dependency.version>1.2.15</cassandra-dependency.version>
+    <cassandra-dependency.version>4.0.10</cassandra-dependency.version>
   </properties>
 
   <dependencies>
